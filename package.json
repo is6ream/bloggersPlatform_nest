@@ -12,5 +12,8 @@
   "packageManager": "pnpm@10.11.0",
   "devDependencies": {
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "mongoose": "^9.0.0"
   }
 }

@@ -15,3 +15,6 @@ export const authService = {
 export type UserAccountDbMethodsType = {
   canBeConfirmed: () => boolean;
 };
+
+
+type UserModelType
